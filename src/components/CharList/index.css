@@ -1,0 +1,13 @@
+.text {
+  font-weight: 500;
+  font-size: 25px;
+  font-family: 'Bree serif';
+}
+.item {
+  list-style-type: none;
+  margin-bottom: 0px;
+}
+.span {
+  font-size: 30px;
+  font-weight: 700;
+}
